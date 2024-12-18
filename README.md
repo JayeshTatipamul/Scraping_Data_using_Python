@@ -74,3 +74,11 @@ The extracted data was successfully converted into a **CSV file**, providing a s
 - **Revenue Growth**
 - **Employees**
 - **Headquarters**
+
+## **Inspiration**
+
+This project was inspired and guided by Alex the Analyst on his [YouTube channel](https://www.youtube.com/@AlexTheAnalyst). His clear and practical explanations helped make these concepts easy to understand and apply.
+
+## **Feedback**
+
+Feel free to raise an issue or submit a pull request for suggestions, improvements, or additional projects. Your contributions are welcome!
